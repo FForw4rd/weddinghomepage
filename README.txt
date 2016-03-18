@@ -1,33 +1,15 @@
+This is the Repository of my Weddinghomepage. It is a very altered version of a template
+from:
+
 Strongly Typed by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-
-This is Strongly Typed, a new site template with a minimal, semi-retro
-look (inspired by old instruction manuals) and, as you might guess from its
-name, a strong emphasis on type. It's fully responsive, built on HTML5/CSS3,
-and includes styling for all basic page elements. Demo images* are courtesy of
-regularjane, an incredibly talented photographer friend of mine. Be sure to
-check out more of her work over at deviantART:
-
-http://regularjane.deviantart.com/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Jane's work without her explicit permission!)
-
-As usual, feedback, bug reports, and comments are not only welcome, but strongly
-encouraged :)
-
-AJ
-n33.co @n33co dribbble.com/n33
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Images are courtesy of me and are not included! Only meant for use with my own site, so please do NOT download
+and/or use any of my pictures without my explicit permission!
 
 
 Credits:
-
-	Demo Images:
-		regularjane (regularjane.deviantart.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
@@ -40,3 +22,4 @@ Credits:
 		Respond.js (j.mp/respondjs)
 		jquery.dropotron (n33.co)
 		Skel (skel.io)
+		formspree.io
