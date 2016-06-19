@@ -1,4 +1,5 @@
 @import url("font-awesome.min.css");
+@import url("lightbox.css");
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
 
 /*
@@ -1210,7 +1211,7 @@
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: 25%;
 		}
 
 		.image.featured {
@@ -1235,6 +1236,26 @@
 				margin: 0 auto;
 				width: auto;
 			}
+
+	@media (min-width: 640px) {
+	.image-row {
+	    text-align: left; } }
+
+	.gallery-image-link {
+	  display: inline-block;
+	  padding: 2px;
+	  /*margin: 0 0.5rem 1rem 0.5rem;*/
+	  background-color: #ebebeb;
+	  line-height: 0;
+	  border: solid 2px #ebebeb !important;
+	  transition: opacity 0.25s ease-in-out; }
+	  .gallery-image-link:hover {
+	    opacity: 0.8;
+	    transition: none; }
+
+	.gallery-image {
+	  /* width: 7rem; */
+	  width: 15rem; }
 
 /* List */
 
